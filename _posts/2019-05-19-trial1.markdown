@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Percobaan 1"
+title:  "First Posting"
 date:   2019-05-19
-description: This is a post description for meta purposes. This is also the excerpt of the article that shows up on the index/home page. Change this in the post YAML.
+description: Ini merupakan percobaan pertama personal blog yang dimiliki oleh Dhani Baharzah, kamu bisa mengunjungi GitHub untuk mendapatkan tema yang sama
 ---
 
-<p class="intro"><span class="dropcap">C</span>Ini merupakan percobaan pertam persona blog yang dimiliki oleh Dhani Baharzah, kamu bisa mengunjungi GitHub untuk mendapatkan tema yang sama</p>
+<p class="intro"><span class="dropcap">I</span>ni merupakan percobaan pertama personal blog yang dimiliki oleh Dhani Baharzah, kamu bisa mengunjungi GitHub untuk mendapatkan tema yang sama</p>

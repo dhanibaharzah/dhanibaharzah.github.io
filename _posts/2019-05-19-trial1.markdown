@@ -1,8 +1,0 @@
----
-layout: post
-title:  "First Posting"
-date:   2019-05-19
-description: Ini merupakan percobaan pertama personal blog yang dimiliki oleh Dhani Baharzah, kamu bisa mengunjungi GitHub untuk mendapatkan tema yang sama
----
-
-<p class="intro"><span class="dropcap">I</span>ni merupakan percobaan pertama personal blog yang dimiliki oleh Dhani Baharzah, kamu bisa mengunjungi GitHub untuk mendapatkan tema yang sama</p>
